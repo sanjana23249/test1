@@ -1,2 +1,5 @@
 pika
 snow
+rose 
+water
+nevla
